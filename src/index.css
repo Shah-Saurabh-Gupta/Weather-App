@@ -6,19 +6,3 @@
 body{
   font-family: 'montseratt', sans-serif;
 }
-.app{
-}
-main{
-  width:50%;
-	height:70%;
-	position: absolute;
-	top:0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	margin: auto;
-  background-image: url('./assets/cold-bg.jpg');
-  background-size: cover;
-  background-position: bottom;
-  transition: 0.4 ease-out;
-}
